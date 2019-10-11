@@ -32,6 +32,6 @@
     }
 }
 
-.completed {
+.toggle.completed {
     text-decoration: line-through;
 }
